@@ -1,0 +1,14 @@
+C:\Users\HOME\source\repos\IotPratice\bin\Debug\net10.0\IotPratice.exe
+C:\Users\HOME\source\repos\IotPratice\bin\Debug\net10.0\IotPratice.deps.json
+C:\Users\HOME\source\repos\IotPratice\bin\Debug\net10.0\IotPratice.runtimeconfig.json
+C:\Users\HOME\source\repos\IotPratice\bin\Debug\net10.0\IotPratice.dll
+C:\Users\HOME\source\repos\IotPratice\bin\Debug\net10.0\IotPratice.pdb
+C:\Users\HOME\source\repos\IotPratice\obj\Debug\net10.0\IotPratice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\source\repos\IotPratice\obj\Debug\net10.0\IotPratice.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\IotPratice\obj\Debug\net10.0\IotPratice.AssemblyInfo.cs
+C:\Users\HOME\source\repos\IotPratice\obj\Debug\net10.0\IotPratice.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\IotPratice\obj\Debug\net10.0\IotPratice.dll
+C:\Users\HOME\source\repos\IotPratice\obj\Debug\net10.0\refint\IotPratice.dll
+C:\Users\HOME\source\repos\IotPratice\obj\Debug\net10.0\IotPratice.pdb
+C:\Users\HOME\source\repos\IotPratice\obj\Debug\net10.0\IotPratice.genruntimeconfig.cache
+C:\Users\HOME\source\repos\IotPratice\obj\Debug\net10.0\ref\IotPratice.dll
