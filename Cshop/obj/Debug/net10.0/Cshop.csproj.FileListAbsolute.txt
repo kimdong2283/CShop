@@ -1,0 +1,14 @@
+C:\Users\HOME\source\repos\Cshop\bin\Debug\net10.0\Cshop.exe
+C:\Users\HOME\source\repos\Cshop\bin\Debug\net10.0\Cshop.deps.json
+C:\Users\HOME\source\repos\Cshop\bin\Debug\net10.0\Cshop.runtimeconfig.json
+C:\Users\HOME\source\repos\Cshop\bin\Debug\net10.0\Cshop.dll
+C:\Users\HOME\source\repos\Cshop\bin\Debug\net10.0\Cshop.pdb
+C:\Users\HOME\source\repos\Cshop\obj\Debug\net10.0\Cshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\source\repos\Cshop\obj\Debug\net10.0\Cshop.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\Cshop\obj\Debug\net10.0\Cshop.AssemblyInfo.cs
+C:\Users\HOME\source\repos\Cshop\obj\Debug\net10.0\Cshop.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\Cshop\obj\Debug\net10.0\Cshop.dll
+C:\Users\HOME\source\repos\Cshop\obj\Debug\net10.0\refint\Cshop.dll
+C:\Users\HOME\source\repos\Cshop\obj\Debug\net10.0\Cshop.pdb
+C:\Users\HOME\source\repos\Cshop\obj\Debug\net10.0\Cshop.genruntimeconfig.cache
+C:\Users\HOME\source\repos\Cshop\obj\Debug\net10.0\ref\Cshop.dll
